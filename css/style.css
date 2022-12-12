@@ -1,9 +1,21 @@
 body {
   background-color: darksalmon;
+  color: #358be1;
+  font-family: sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
+
 
 section{
   width: auto;
   margin: auto;
   background-color: ;
+}
+
+table, th, td {
+  border: 3.5px double;
+  padding: 3.5px;
 }
